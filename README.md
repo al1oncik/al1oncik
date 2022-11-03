@@ -19,7 +19,7 @@ I am a self-taught programmer, who loves his job. I love to learn new things abo
 
 ![al1oncik's GitHub stats](https://github-readme-stats.vercel.app/api?username=al1oncik&show_icons=true&theme=chartreuse-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al1oncik&layout=compact$theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al1oncik&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
