@@ -2,7 +2,7 @@
 I am a self-taught programmer, who loves his job. I love to learn new things about programming and all about computer science. Now I'm immersed to study Web development with Django framework. I started learning programming since 2020 and already have created several projects.
 
 ## 🛠️ Languages and Tools
-<div style="text-align: center;">
+<div width="100%" style="display: flex; justify-content: center;">
           <img alt="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
           <img alt="Django" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
           <img alt="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -10,8 +10,8 @@ I am a self-taught programmer, who loves his job. I love to learn new things abo
           <img alt="Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
           <img alt="Kivy" width="30px" style="padding-right: 10px;" src="https://github.com/kivy/kivy-design/blob/master/logo/svg/kivy-logo-dark.svg" />
           <img alt="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-          <br />
 </div>
+<br />
 #
 
 ### 📊 Stats
