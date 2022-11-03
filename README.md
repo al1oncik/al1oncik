@@ -11,7 +11,6 @@ I am a self-taught programmer, who loves his job. I love to learn new things abo
 <img align="left" alt="C#" width="60px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <br />
 
-### 📊 Stats
 
 ![al1oncik's GitHub stats](https://github-readme-stats.vercel.app/api?username=al1oncik&show_icons=true&theme=radical)
 
