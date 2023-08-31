@@ -1,4 +1,4 @@
-![icons8-java](https://github.com/al1oncik/al1oncik/assets/86567581/f3debbd2-9f23-439c-aa94-2be57c4b4788)# 🧑‍💻 al1oncik
+🧑‍💻 al1oncik
 I am a self-taught programmer, who loves his job. I love to learn new things about programming and all about computer science. Now I'm immersed to study Web development with Java/Spring. I started learning programming since 2020 and already have created several projects.
 
 ## 🛠️ Languages and Tools
